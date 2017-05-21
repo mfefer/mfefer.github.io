@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/mfefer/mfefer.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my personal website! I am currently a Masters candidate at UC Davis and my advisor is [Professor Jon Herman](https://faculty.engineering.ucdavis.edu/herman/). My work includes hydro-economic modeling of California's water system using PyVIN and examining how climate variability will affect the management of our water resources. I am also interested in water policy and water history and currently working on a paper regarding the engineers involved in the establishment of San Francisco's reservoir in the Hetch Hetchy valley. When I finish my degree, I will be searching for a full time position at a consulting firm or public agency in water resources engineering. Please enjoy reading about my research areas and pictures of my travels.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**[LinkedIn](https://linkedin.com/in/maxfefer)** \\
+**[Twitter](https://twitter.com/max_fefer)** \\
+**[Github](https://github.com/mfefer)**
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ ![Image](/other/Bethany_Reservoir_and_California_Aqueduct.jpg)
+ *[Image source](https://www.flickr.com/photos/8510225@N07/539617503)*
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mfefer/mfefer.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
