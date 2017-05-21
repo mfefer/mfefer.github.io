@@ -1,4 +1,4 @@
-## About my research
+## About my Hetch Hetchy research
 
 In addition to my interests in water resources modeling, I am also interested in the history of how California's water resources have developed. I have been researching the history of Hetch Hetchy and the efforts of the engineers to construct it. 
 

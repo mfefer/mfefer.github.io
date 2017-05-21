@@ -1,4 +1,4 @@
-## About my research
+## About my PyVIN research
 
 California as the US state with the largest population, highly variable climate, and vast agricultural exports has extensive agricultural and urban water needs. To complement its high water demand, California has developed a vast water network over the past 100 years, now reaching roughly 700 miles from Shasta Lake in the northern half of the state to the beaches of San Diego. 
 
@@ -18,8 +18,8 @@ I will be presenting my [poster](/other/poster.pdf) at EWRI on Wednesday May 24t
 ## Important Github Repositories
 
 [PyVIN repository](https://github.com/msdogan/pyvin) \\
-[CALVIN data](https://github.com/calvin-network-data) \\
-[Data export tool](https://github.com/calvin-network-tools)
+[CALVIN data](https://github.com/ucd-cws/calvin-network-data) \\
+[Data export tool](https://github.com/ucd-cws/calvin-network-tools)
 
 ## PyVIN Webtool
 
