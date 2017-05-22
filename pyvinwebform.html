@@ -30,13 +30,13 @@
       
     <form name="form" action="">
     <ol>
-        <li>Start Date (includes month selected):     <input type="month" min="1921-10" max="2003-10" required="required">
+        <li>Start Date (includes month selected):     <input type="month" min="1921-10" max="2003-09" required="required">
     <br><br></li>
-        <li>    End Date (To end on Sept 30th, choose Oct):     <input type="month"><br><br> </li>
+        <li>    End Date (To end on Sept 30th, choose Oct):     <input type="month" min="1921-11" max="2003-10" required="required"><br><br> </li>
         
         <li>
         Debug Mode?<br>
-        <input type="radio" name="debug" value="True"> Yes<br>
+        <input type="radio" name="debug" value="True" required> Yes<br>
         <input type="radio" name="debug" value="False"> No    <br><br>
         </li>
         
