@@ -1,6 +1,6 @@
 ## About my PyVIN research
 
-California as the US state with the largest population, highly variable climate, and vast agricultural exports has extensive agricultural and urban water needs. To complement its high water demand, California has developed a vast water network over the past 100 years, now reaching roughly 700 miles from Shasta Lake in the northern half of the state to the beaches of San Diego. 
+California has developed a vast water infrastructure network of reservoirs, aqueducts, and pipelines over the past 100 years to mitigate the trifecta of scarcity (Most populous state in the US, arid climate, and high agricultural production), now reaching roughly 700 miles from Shasta Lake in the north to the sunny beaches of San Diego in southern California. 
 
 The CALVIN model was developed by a team of researchers led by Professor Jay Lund and Professor Richard Howitt to gain insight into this complex water network. More information about the CALVIN model can be found on the [CALVIN website](https://watershed.ucdavis.edu/shed/lund/CALVIN/). 
 

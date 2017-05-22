@@ -4,7 +4,7 @@ In addition to my interests in water resources modeling, I am also interested in
 
 The intersection of public policy and engineering projects particularly interests me. I am currently preparing a paper for submission this summer detailing new findings about Hetch Hetchy's history and exploring the role of engineers in the policy process of large infrastructure projects.
 
-### Upcoming Presentations
+### Presentations
 
 "Damned if you, Dammed if you don't: Taggart Aston's Untold Story of Hetch Hetchy" \\
 International Water History Association 2017 Conference \\
