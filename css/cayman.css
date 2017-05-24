@@ -132,6 +132,7 @@ a { color: #1e6bb8; text-decoration: none; }
 a:hover { text-decoration: underline; }
 a:focus { color: #0085a1; }
 
+.icon { text-decoration: none; }
 .icon:hover { text-decoration: none; }
 
 .btn { display: inline-block; margin-bottom: 1rem; color: black; background-color: rgba(255, 255, 255, 0.6); border-color: rgba(255, 255, 255, 0.2); border-style: solid; border-width: 1px; border-radius: 0.3rem; transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
